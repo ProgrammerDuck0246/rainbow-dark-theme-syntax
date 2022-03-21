@@ -3,11 +3,11 @@
   /* Active Line Highlight support */
 }
 .editor .CodeMirror {
-  background-color: #D8DEE9;
-  color: #D8DEE9;
+  background-color: #2E3440;
+  color: #2E3440;
 }
 .editor .CodeMirror-scroll {
-  color: #434C5E;
+  color: #EBCB8B;
 }
 .editor .CodeMirror-gutters {
   background-color: #4C566A;
@@ -66,7 +66,7 @@
 .editor .CodeMirror .cm-string,
 .editor .CodeMirror .cm-string-2,
 .editor .CodeMirror .cm-hr {
-  color: #81A1C1;
+  color: #EBCB8B;
 }
 .editor .CodeMirror .cm-number,
 .editor .CodeMirror .cm-attribute,
@@ -78,7 +78,13 @@
   color: #D08770;
 }
 .editor .CodeMirror .cm-variable {
-  color: #5E81AC;
+  color: #FFB6C1;
+}
+.editor .CodeMirror .cm-variable-2 {
+  color: #FF69B4;
+}
+.editor .CodeMirror .cm-variable-3 {
+  color: #FF00FF;
 }
 .editor .CodeMirror .cm-operator,
 .editor .CodeMirror .cm-meta,
@@ -91,16 +97,16 @@
 }
 .editor .CodeMirror .cm-error,
 .editor .CodeMirror .cm-minus {
-  color: #BF616A;
+  color: #6a0dad;
 }
 .editor .CodeMirror .cm-formatting-header {
   opacity: 0.3;
 }
 .editor .CodeMirror .cm-header {
-  color: #5E81AC;
+  color: #A3BE8C;
 }
 .editor .CodeMirror .cm-link {
-  color: #A3BE8C;
+  color: #B48EAD;
   text-underline-position: under;
 }
 .editor .CodeMirror .cm-rangeinfo {
