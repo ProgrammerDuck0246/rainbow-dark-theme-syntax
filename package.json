@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "name": "default-light-syntax",
-  "description": "Default light syntax theme",
+  "version": "0.0.0",
+  "name": "rainbow-dark-theme-syntax",
+  "description": "Rainbow Syntax Theme for Inkdrop",
+  "repository": "https://github.com/ProgrammerDuck0246/rainbow-dark-theme-syntax",
   "theme": "syntax",
   "scripts": {
     "build": "lessc styles/less/default.less ./styles/index.css"

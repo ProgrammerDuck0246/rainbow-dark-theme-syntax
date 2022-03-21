@@ -3,24 +3,24 @@
   /* Active Line Highlight support */
 }
 .editor .CodeMirror {
-  background-color: #FFFFFF;
-  color: #434C5E;
+  background-color: #D8DEE9;
+  color: #D8DEE9;
 }
 .editor .CodeMirror-scroll {
   color: #434C5E;
 }
 .editor .CodeMirror-gutters {
-  background-color: #FFFFFF;
+  background-color: #4C566A;
 }
 .editor .CodeMirror-linenumber {
-  color: #4C566A;
+  color: #D8DEE9;
   opacity: 0.6;
 }
 .editor .CodeMirror-selected {
   background-color: #E5E9F0;
 }
 .editor .CodeMirror-focused .CodeMirror-selected {
-  background-color: #D8DEE9;
+  background-color: #EBCB8B;
 }
 .editor .CodeMirror-cursor {
   border-left: 1px solid #2E3440;
